@@ -1,5 +1,5 @@
 {
-  "homepage": "https://vix890.github.io/Calculadora_react/",
+  "homepage": "https://vix890.github.io/Calculadora_React_Jona/",
   "name": "a",
   "version": "0.1.0",
   "private": true,
@@ -39,6 +39,7 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^6.1.0"
+    "gh-pages": "^6.1.0",
+    "mathjs": "^12.2.0"
   }
 }
